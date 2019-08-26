@@ -7,7 +7,7 @@
 
 # Requirements
 * You will need an Android device with **ARCore** installed.
-* Install the our **3Deep Virtual Camera** app on your device [3DEEP Virtual Camera](https://gum.co/vCjz).
+* Install the our **3Deep Virtual Camera** app on your device **[3DEEP Virtual Camera](https://gum.co/vCjz)**.
 **the app is available for free, if you want to support the developers to keep offering more free tools you can buy them a coffee over gumroad.**
 * For the Maya interface you will need **OpenCV**, **NumPy**, **PyWin32** for Maya. ***Check the Links section.***
 
