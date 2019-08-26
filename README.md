@@ -18,7 +18,7 @@
   <img width="427" height="240" src="vc_android.gif?raw=true">
 </p>
 
-* After fulfilling the requirements run the Maya tool copy the code from **maya19_virtual_camera.py** to your editor and run it or save it to your tools shelf for quicker access later.
+* After fulfilling the requirements run the Maya tool by copying the code from **maya19_virtual_camera.py** to the maya script editor and run it or save it to your tools shelf for quicker access later.
 * Run the **3Deep Virtual Camera App** on your device.
 * In the Maya tool enter your phone ip address.
 * In the Android App enter your PC ip address.
